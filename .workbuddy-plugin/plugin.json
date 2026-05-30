@@ -1,0 +1,57 @@
+{
+  "name": "coxbyte-ops",
+  "version": "1.0.0",
+  "description": "Coxbyte cross-border e-commerce operations expert — SEO, Amazon/AliExpress/Shopee channel optimization, competitor monitoring, pricing strategy, and content marketing for thermal paste brand growth.",
+  "author": {
+    "name": "Coxbyte Team",
+    "email": "support@coxbyte.com"
+  },
+  "homepage": {
+    "url": "https://www.coxbyte.com",
+    "type": "website"
+  },
+  "keywords": ["thermal paste", "cross-border e-commerce", "SEO", "Amazon optimization", "competitor analysis"],
+  "agents": ["./agents/coxbyte-ops.md"],
+
+  "expertType": "agent",
+  "agentName": "coxbyte-ops",
+
+  "displayName": {
+    "en": "Coxbyte Ops",
+    "zh": "Coxbyte运营官"
+  },
+  "profession": {
+    "en": "Cross-Border E-Commerce Operations Expert",
+    "zh": "跨境电商运营专家"
+  },
+  "displayDescription": {
+    "en": "Dedicated Coxbyte brand growth expert covering Amazon/AliExpress/Shopee channel optimization, SEO content strategy, competitor monitoring, and pricing analysis. Data-driven decisions to boost brand search visibility and conversion rates across global markets.",
+    "zh": "专注Coxbyte全球电商增长，覆盖Amazon/速卖通/Shopee渠道优化、SEO内容策略、竞品监测与定价分析，数据驱动提升品牌搜索可见度与转化率。"
+  },
+  "avatar": "avatars/coxbyte-ops.png",
+  "categoryId": "07-SalesCommerce",
+  "defaultInitPrompt": {
+    "zh": "分析Coxbyte本周在Amazon和速卖通的销量表现，并与Arctic、Thermal Grizzly做竞品对比",
+    "en": "Analyze Coxbyte's weekly sales on Amazon and AliExpress, compare with Arctic and Thermal Grizzly"
+  },
+  "plugin": "coxbyte-ops",
+  "tags": [
+    { "en": "Cross-Border E-Commerce", "zh": "跨境电商" },
+    { "en": "SEO & Content", "zh": "SEO内容" },
+    { "en": "Competitor Analytics", "zh": "竞品分析" }
+  ],
+  "quickPrompts": [
+    {
+      "en": "Analyze Coxbyte's weekly sales on Amazon and AliExpress, compare with Arctic and Thermal Grizzly",
+      "zh": "分析Coxbyte本周在Amazon和速卖通的销量表现，并与Arctic、Thermal Grizzly做竞品对比"
+    },
+    {
+      "en": "Optimize the Amazon product page for Coxbyte TG-50 thermal paste, including title, bullet points, and A+ content",
+      "zh": "为Coxbyte TG-50导热硅脂优化Amazon产品页面，包括标题、五点描述和A+内容"
+    },
+    {
+      "en": "Create next month's SEO content calendar for Coxbyte based on latest thermal paste market trends",
+      "zh": "根据最新导热硅脂市场趋势，为Coxbyte制定下个月的SEO内容日历"
+    }
+  ]
+}
